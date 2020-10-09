@@ -1,0 +1,13 @@
+Farmacia
+
+
+Enfermagem
+-Alta do Paciente imagem ok
+-Alteração de horário ok
+-Falta de medicação ok
+-Informar Devolução ok
+
+
+
+Login
+

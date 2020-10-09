@@ -1,0 +1,87 @@
+.buton {
+	background-color: #1C00ff00;
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 25px;
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0,4s;
+	font-style: normal;
+}
+.button2:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button3 {
+	background-color: #4CAF50;
+	border: 2px solid #000000;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 25px;
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0,4s;
+	font-style: normal;
+}
+
+.fundoInicial {
+  background-color: #e0e0e0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../FarmAux/imagens/fundo.jpg);
+
+}
+
+
+.gradianteColorido{
+	background-color: #e0e0e0;
+  	background-image: linear-gradient(blue, yellow);
+}
+.titulo {
+  	font-size: 50px;
+   	font-weight: bold;
+  	font-family: Comic Sans MS;
+}
+.Seletor {
+	user-select: none; /* Safari 3.1+ */
+  	-moz-user-select: none; /* Firefox 2+ */
+  	-ms-user-select: none; /* IE 10+ */
+  	user-select: none;
+}
+.negrito {
+	font-weight: bold;
+}
+.Borda {
+	border-radius: 30px
+}
+
+div#Corp{
+	position: absolute;
+	right: 0px;
+	bottom: 5px;
+	left: 0px;
+	text-align: center;
+	font-size: 5px;
+	text-decoration: overline;
+	text-shadow: 1.3px 1.3px grey;
+}
+div#conteudocima{
+	position: relative;
+
+}
+
+.BarraLogin{
+	font-size: 32px;
+}
+
+
+input{
+	display: block;
+}
